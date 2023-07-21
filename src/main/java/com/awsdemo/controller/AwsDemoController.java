@@ -8,7 +8,6 @@ import org.springframework.web.service.annotation.GetExchange;
 public class AwsDemoController {
 
 	
-	
 	@GetMapping("/go")
 	public String getAccess() {
 		
