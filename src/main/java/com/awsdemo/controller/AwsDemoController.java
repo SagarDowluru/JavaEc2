@@ -10,7 +10,7 @@ public class AwsDemoController {
 	
 	@GetMapping("/go")
 	public String getAccess() {
-		
+	
 		
 		return "Working fine.....!";
 		
